@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -------------
+# :raised_eyebrow: Profile Views:
 [![](https://visitcount.itsvg.in/api?id=traximuser20&icon=0&color=12)]()
 -------------
 
