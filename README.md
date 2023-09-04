@@ -19,7 +19,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=traximuser20&show_icons=true&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=traximuser20&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=traximuser20&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=traximuser20&show_icons=true&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://raw.githubusercontent.com/username=traximuser20/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 ## 🏆 GitHub Trophies
