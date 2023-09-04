@@ -19,9 +19,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=traximuser20&show_icons=true&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=traximuser20&theme=blue-green&hide_border=false)<br/>
-![Azeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=traximuser20&show_icons=true&theme=dark)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=traximuser20&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://raw.githubusercontent.com/api?username=traximuser20/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username=traximuser20/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=traximuser20&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
